@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 sensor/__init__.py
 sensor.egg-info/PKG-INFO
